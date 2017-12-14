@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/7ad5cbd99270cf52f997/maintainability)](https://codeclimate.com/github/trybeee/macchiato-web3-example/maintainability)
+
 # macchiato-web3-example
 Example app built with Macchiato framework and cljs-web3 library
 
